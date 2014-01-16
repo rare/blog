@@ -1,5 +1,12 @@
 {
-	"docs" : ["README.md", "docs"],
+	"docs" : {
+		"c" : "category/c",
+		"cpp" : "category/cpp",
+		"php" : "category/php",
+		"java" : "category/java",
+		"python" : "category/python",
+		"nodejs" : "category/nodejs",
+		},
 	"title" : "Rare's Blog",
 	"perpage" : 10,
 	"order" : "number",
