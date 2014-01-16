@@ -1,3 +1,13 @@
 {
 	"docs" : ["README.md", "docs"],
+	"title" : "Rare's Blog",
+	"perpage" : 10,
+	"order" : "number",
+	"friends" : [
+		{
+			"name" : "github",
+			"title" : "github",
+			"url" : "https://github.com",
+		}
+	]
 }
