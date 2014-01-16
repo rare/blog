@@ -1,11 +1,11 @@
 {
 	"docs" : {
-		"c" : "category/c",
-		"cpp" : "category/cpp",
-		"php" : "category/php",
-		"java" : "category/java",
-		"python" : "category/python",
-		"nodejs" : "category/nodejs",
+		"c" : "c",
+		"cpp" : "cpp",
+		"php" : "php",
+		"java" : "java",
+		"python" : "python",
+		"nodejs" : "nodejs",
 		},
 	"title" : "Rare's Blog",
 	"perpage" : 10,
